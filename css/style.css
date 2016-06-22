@@ -65,3 +65,17 @@ body{
 .parallax-container {
     min-height: 400px;
 }
+
+.api-contact{
+    background-color: #0099ff;
+    text-align:center;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+    padding-top: 25px;
+}
+
+.api-contact ul li{
+    display: inline;
+    padding-right: 20px;
+}
