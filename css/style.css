@@ -85,13 +85,13 @@ html, body {
     margin: 0;
 }
 
-#wrapper {
+#wrapper1, #wrapper2, #wrapper3, #wrapper4, #wrapper5  {
     min-height: 100%; 
 }
 
 .social-media ul li{
     display: inline;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 .social-media{
