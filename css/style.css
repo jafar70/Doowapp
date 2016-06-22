@@ -1,0 +1,67 @@
+.navbar-default{
+    background-color: transparent;
+    background: transparent;
+    height: 130px;
+    border-color: transparent;
+}
+
+body{
+    background-color: white;
+}
+
+.home{
+    background-image: url('../img/Untitledlpoo.jpg');
+    background-size: cover;
+    padding-top: 0px;
+    color:white;
+    padding-bottom: 250px;
+}
+
+.banner{
+    padding-top: 180px;
+}
+
+.videobutton{
+    font-size: 16px;
+}
+
+.arrow{
+    background-color: white;
+    text-align: center;
+    padding: 46px;
+    
+}
+
+.arrow-curate{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 98px;
+}
+
+.curate {
+   background-color: black;
+}
+
+.curate{
+   
+    padding-top: 0px;
+    color:white;
+    padding-bottom: 600px;
+}
+
+.share{
+    background-image: url('http://www.mobiledatarecoverys.com/wp-content/uploads/2015/04/banner-mobile-apps.jpg');
+    background-size: 100% 100%;
+    padding-bottom: 600px;
+}
+
+.own{
+    background-image: url('http://livingmythmagazine.com/wp-content/uploads/2015/05/Bad-Blood-Banner.jpg');
+    background-size: 100% 100%;
+    padding-bottom: 600px;
+}
+
+.parallax-container {
+    min-height: 400px;
+}
