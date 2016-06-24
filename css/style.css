@@ -98,3 +98,23 @@ html, body {
     text-align:center;
     padding: 25px;
 }
+
+.api {
+    text-align: center;
+    padding: 30px;
+}
+
+.api, p {
+    color: black;
+}
+
+.api, h2{
+    color:#0099ff;
+}
+
+api-contact, ul a,
+api-contact, ul a:hover,
+api-contact, ul a:focus{
+    color: white;
+}
+

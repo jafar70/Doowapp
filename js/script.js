@@ -11,7 +11,7 @@ $("#tocurate").click(function() {
     }, 2000);
 });
 
-$("#tobarz").click(function() {
+$("#toshare").click(function() {
     $('html, body').animate({
         scrollTop: $("#wrapper3").offset().top
     }, 2000);
@@ -24,6 +24,12 @@ $("#toown").click(function() {
 });
 
 $("#tocontact").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#wrapper5").offset().top
+    }, 2000);
+});
+
+$("#totop").click(function() {
     $('html, body').animate({
         scrollTop: $("#wrapper5").offset().top
     }, 2000);
